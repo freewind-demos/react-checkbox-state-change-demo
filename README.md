@@ -1,7 +1,7 @@
-React Base Project
-==================
+React Checkbox State Change Demo
+================================
 
-React base project.
+Click on a checkbox, it will change the state of the item, and shows a different view.
 
 ```
 npm install
